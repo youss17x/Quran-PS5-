@@ -1,0 +1,23 @@
+{
+  "titleId": "QRAN00001",
+  "conceptId": "09992",
+  "contentId": "IV9999-QRAN00001_00-QURANPS500000000",
+  "contentVersion": "01.002.000",
+  "masterVersion": "01.00",
+  "applicationCategoryType": 0,
+  "contentBadgeType": 1,
+  "applicationDrmType": "free",
+  "downloadDataSize": 256,
+  "localizedParameters": {
+    "defaultLanguage": "en-US",
+    "en-US": {
+      "titleName": "Quran - القرآن الكريم"
+    },
+    "ar-AE": {
+      "titleName": "القرآن الكريم"
+    }
+  },
+  "kernel": {
+    "flexibleMemorySize": 268435456
+  }
+}
